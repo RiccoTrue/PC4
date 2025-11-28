@@ -1,6 +1,6 @@
 # PC4 - Construcción de Software I (Fundamentos y prácticas)
 
-## Tabla de contenidos 
+## Índice
 - [1. Integrantes](./1/1.md)
   - [1.1. Integrante 1](./1/1.1/1.1.md)
   - [1.2. Integrante 2](./1/1.2/1.2.md)
